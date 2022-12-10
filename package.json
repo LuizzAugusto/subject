@@ -1,0 +1,12 @@
+{
+  "name": "subject",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Subject of observer pattern factory for Javascript",
+  "main": "subject_test.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Luiz Augusto Schneider da Silva",
+  "license": "unlicense"
+}
